@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script_4.rpy", line 120: end of line expected.
+    scene bg black with dissolve 2
+                                 ^
+
+Ren'Py Version: Ren'Py 7.2.1.457
+Thu Apr 04 12:06:18 2019
